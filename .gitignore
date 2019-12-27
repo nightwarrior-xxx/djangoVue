@@ -1,0 +1,9 @@
+virtual/
+__pycache__/
+migrations/
+.vscode/
+db.sqlite3
+node_modules/
+cred.sh
+.env
+build/
